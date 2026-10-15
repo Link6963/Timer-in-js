@@ -1,0 +1,1 @@
+# First I make an ID make what happens after the time is up using a function. It alerts time is up. I set the timer with setTimeout to do the function after 3000 miliseconds are up.
